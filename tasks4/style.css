@@ -1,0 +1,165 @@
+.fullwrap{
+  border: 3px solid #5f9ea0;
+  width: 375px;
+  height: 575px;
+  margin: 10px;
+  border-radius: 3%;
+}
+
+.fullwrap-position{
+  position: absolute;
+  border: 3px solid #5f9ea0;
+  width: 375px;
+  height: 575px;
+  margin: 10px;
+  border-radius: 3%;
+  left: 600px;
+  top: 0px;
+}
+
+.header{
+  background-color: #5f9ea0;
+  text-align: right;
+  color: white;
+  font-size: 10px;
+  max-height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.text{
+  border: 3px solid #5f9ea0;
+  border-radius: 5%;
+  text-align: right;
+  color: #5f9ea0;
+  font-size: 10px;
+  max-height: 50px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.battery{
+  border: 3px solid #5f9ea0;
+  background-color: #5f9ea0;
+  height: 45px;
+  margin-right: 10px;
+  width: 120px;
+  margin-left: 235px;
+  margin-bottom: 20px;
+}
+
+.line{
+  margin-left: 25px;
+}
+
+.line-1{
+  position: relative;
+  margin-left: 25px;
+  top: 0px;
+}
+
+.line-2{
+  position: relative;
+  margin-left: 25px;
+  top: 85px;
+}
+
+.line-3{
+  position: relative;
+  margin-left: 25px;
+  top: 170px;
+}
+
+.line-4{
+  position: relative;
+  margin-left: 25px;
+  top: 255px;
+}
+
+.button{
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  width: 65px;
+  height: 60px;
+  border: 3px solid #5f9ea0;
+  text-align: center;
+  color: #5f9ea0;
+  border-radius: 20%;
+}
+
+.button:hover{
+  color: red;
+  border-color: red;
+}
+
+.button:active{
+  background-color: grey;
+}
+
+.btext{
+  margin-top: 0.4em;
+}
+
+.button-1{
+  position: absolute;
+  margin-bottom: 20px;
+  width: 65px;
+  height: 60px;
+  border: 3px solid #5f9ea0;
+  text-align: center;
+  color: #5f9ea0;
+  border-radius: 20%;
+}
+
+.button-1:hover, .button-2:hover, .button-3:hover, .button-4:hover{
+  color: red;
+  border-color: red;
+}
+
+.button-1:active, .button-2:active, .button-3:active, .button-4:active{
+  background-color: grey;
+}
+
+.button-2{
+  position: absolute;
+  left: 90px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  width: 65px;
+  height: 60px;
+  border: 3px solid #5f9ea0;
+  text-align: center;
+  color: #5f9ea0;
+  border-radius: 20%;
+}
+
+.button-3{
+  position: absolute;
+  left: 180px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  width: 65px;
+  height: 60px;
+  border: 3px solid #5f9ea0;
+  text-align: center;
+  color: #5f9ea0;
+  border-radius: 20%;
+}
+
+.button-4{
+  position: absolute;
+  left: 265px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  width: 65px;
+  height: 60px;
+  border: 3px solid #5f9ea0;
+  text-align: center;
+  color: #5f9ea0;
+  border-radius: 20%;
+}
